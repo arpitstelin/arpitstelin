@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arpit
 - 👀 I’m interested in Python,web  development,problem solving, mobile application development
-- 🌱 I’m currently learning Java, full stack development
+- 🌱 I’m currently learning C++, full stack development
 - 📫 How to reach me- 
 Linkendin-linkedin.com/in/arpit-shukla-7090b51ba
 
